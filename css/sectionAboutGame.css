@@ -1,0 +1,19 @@
+.sectionAboutGame {
+    border: 2px solid #000000;
+    background-color: #faebd7;
+    padding: 10px;
+}
+
+.sectionAboutGame__title {
+    color: #ff0000;
+    text-align: center;
+}
+
+.sectionAboutGame__gameStory {
+    font-size: 19px;
+    line-height: 1.5;
+}
+
+.sectionAboutGame__strong {
+    color: #ff0000;
+}

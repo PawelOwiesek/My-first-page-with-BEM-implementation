@@ -1,0 +1,19 @@
+.navigation__Menu {
+    color: #ff0000;
+    font-size: 40px;
+    margin: 50px;
+}
+
+.navigation__unorderedList {
+    list-style: none;
+}
+
+.navigation__listItem {
+    text-decoration: none;
+    border: 2px solid black;
+    font-size: 25px;
+    background-color: #c1b7ab;
+    max-width: 360px;
+    margin: 10px;
+    padding: 10px;
+}

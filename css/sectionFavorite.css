@@ -1,0 +1,35 @@
+.sectionFavorite {
+    border: 2px solid #000000;
+    background-color: #ffe4c4;
+}
+
+.sectionFavorite__title {
+    color: #ff0000;
+    text-align: center;
+}
+
+.sectionFavorite__buildings {
+    max-width: 40%;
+    padding: 10px;
+}
+
+.sectionFavorite__monument {
+    max-width: 40%;
+    padding: 10px;
+}
+
+.sectionFavorite__text {
+    line-height: 1.5;
+    font-size: 19px;
+    padding: 10px;
+}
+
+.sectionFavorite__text-strong {
+    color: #ff0000;
+}
+
+.sectionFavorite__uList {
+    line-height: 1.5;
+    font-size: 19px;
+    list-style-type: none;
+}

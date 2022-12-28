@@ -1,0 +1,26 @@
+.sectionCharacter {
+    border: 2px solid #000000;
+    background-color: #ffe4c4;
+}
+
+.sectionCharacter__title {
+    color: #ff0000;
+    text-align: center;
+}
+
+.sectionCharacter__gotlung {
+    max-width: 30%;
+}
+
+.sectionCharacter__khorr {
+    max-width: 30%;
+}
+
+.sectionCharacter__slavard {
+    max-width: 30%;
+}
+
+.sectionCharacter__text {
+    font-size: 19px;
+    line-height: 1.5;
+}

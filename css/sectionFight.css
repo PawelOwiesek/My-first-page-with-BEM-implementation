@@ -1,0 +1,27 @@
+.sectionFight {
+    border: 2px solid #000000;
+    background-color: #ffe4c4;
+}
+
+.sectionFight {
+    border: 2ps solid #000000;
+}
+
+.sectionFight__title {
+    color: #ff0000;
+    text-align: center;
+}
+
+.sectionFight__fightPhoto {
+    max-width: 45%;
+}
+
+.sectionFight__fightJpg {
+    max-width: 45%;
+}
+
+.sectionFight__text {
+    font-size: 19px;
+    line-height: 1.5;
+    margin: 10px;
+}

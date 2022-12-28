@@ -1,0 +1,9 @@
+.footer {
+    border: 10px solid #000000;
+    font-size: 25px;
+}
+
+.footer__contact {
+    color: #dc143c;
+    margin: 20px;
+}

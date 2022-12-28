@@ -1,0 +1,35 @@
+.header {
+    border: 2px solid #1a1e1a;
+    background-color: #ffe4c4;
+
+}
+
+.dark {
+    background-color: darkgreen;
+}
+
+.header__button {
+    font-size: 16px;
+    text-align: center;
+    margin: 5px;
+    background-color: #f0911e;
+}
+
+.header__favorite {
+    color: #dc143c;
+    text-align: center;
+}
+
+.header__gameTitle {
+    color: #1a1e1a;
+}
+
+.header__mmoJpg {
+    max-width: 40%;
+    padding: 20px;
+}
+
+.header__yoJpg {
+    max-width: 40%;
+    padding: 20px;
+}

@@ -1,0 +1,28 @@
+.tableContainer {
+    overflow-x: auto;
+}
+
+.tableContainer__table {
+    border-collapse: collapse;
+    max-width: 100%;
+}
+
+.tableContainer__tTitle {
+    font-size: 24px;
+    color: #ff0000;
+}
+
+.tableContainer__tData {
+    border: 3px solid #000000;
+    text-align: center;
+    font-size: 19px;
+    background-color: #b48d5b;
+}
+
+.tableContainer__tData:hover {
+    background-color: #806d55;
+}
+
+.tableContainer__tHeder {
+    background-color: #9fe2e2;
+}
