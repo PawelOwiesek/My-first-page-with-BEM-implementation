@@ -11,8 +11,8 @@
     }
 
     const init = () => {
-        const header__button = document.querySelector(".header__button");
-        header__button.addEventListener("click", changeBackground);
+        const button = document.querySelector(".js-button");
+        button.addEventListener("click", changeBackground);
         welcomeMessage();
     }
     init();
