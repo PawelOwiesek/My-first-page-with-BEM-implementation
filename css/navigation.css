@@ -9,11 +9,11 @@
 }
 
 .navigation__listItem {
-    text-decoration: none;
-    border: 2px solid black;
-    font-size: 25px;
-    background-color: #c1b7ab;
-    max-width: 360px;
-    margin: 10px;
-    padding: 10px;
+     border-radius: 25px;
+     font-size: 25px;
+     margin: 10px;
+     padding: 10px;
+}
+.navigation__listItem--link{
+    text-decoration-line: none;
 }

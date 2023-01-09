@@ -16,13 +16,13 @@
     border: 3px solid #000000;
     text-align: center;
     font-size: 19px;
-    background-color: #b48d5b;
+    background-color: #f1eee9;
 }
 
 .tableContainer__tData:hover {
-    background-color: #806d55;
+    background-color: #2ebad3;
 }
 
 .tableContainer__tHeder {
-    background-color: #9fe2e2;
+    background-color: #00f8ba;
 }

@@ -1,6 +1,6 @@
 .header {
     border: 2px solid #1a1e1a;
-    background-color: #ffe4c4;
+    background-color: #ffffff;
 
 }
 
@@ -12,7 +12,8 @@
     font-size: 16px;
     text-align: center;
     margin: 5px;
-    background-color: #f0911e;
+    background-color: #f5f0ea;
+    border-radius: 25px;
 }
 
 .header__favorite {

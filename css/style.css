@@ -11,5 +11,6 @@ html {
 .body {
     max-width: 1000px;
     margin: 0 auto;
-    font-family: "lato" sans-serif;
+    font-family: "lato", sans-serif;
+    background-color: #f5f5dc;
 }
