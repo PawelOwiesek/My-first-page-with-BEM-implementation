@@ -11,4 +11,5 @@
 ![share](https://user-images.githubusercontent.com/121549413/211076244-4a3c4e32-b4f4-4ed9-9541-479a7858e875.png)
 ## Preview:
 
-![Animation](https://user-images.githubusercontent.com/121549413/211064515-60a4b4af-0968-425e-89fd-72d30e1cfe6b.gif)
+
+![Animation](https://user-images.githubusercontent.com/121549413/211304281-32c408bc-1a8c-433a-9c80-f847abba3bac.gif)
