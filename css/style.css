@@ -6,6 +6,7 @@ html {
 ::after,
 ::before {
     box-sizing: inherit;
+     scroll-behavior:smooth;
 }
 
 .body {
