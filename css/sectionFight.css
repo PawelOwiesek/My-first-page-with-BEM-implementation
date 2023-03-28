@@ -25,3 +25,13 @@
     line-height: 1.5;
     margin: 10px;
 }
+
+.sectionCharacter__logo {
+    max-width: 50px;
+}
+
+@media(max-width:767px) {
+    .sectionCharacter__logo {
+        max-width: 25px;
+    }
+}
