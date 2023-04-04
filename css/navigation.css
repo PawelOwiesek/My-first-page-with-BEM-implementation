@@ -12,6 +12,30 @@
     z-index: 100;
 }
 
+@media(max-width:767px) {
+    .navigation {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        max-width: fit-content;
+        font-size: 15px;
+        margin: 0;
+        padding: 5px;
+    }
+}
+
+@media(max-width:900px) {
+    .navigation {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        max-width: fit-content;
+        font-size: 15px;
+        margin: 0;
+        padding: 5px;
+    }
+}
+
 nav a {
     text-decoration-line: none;
     color: #fff;
