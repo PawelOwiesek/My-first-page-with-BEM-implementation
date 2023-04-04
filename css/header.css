@@ -17,6 +17,12 @@
     padding: 5px;
 }
 
+@media(max-width:767px) {
+    .header__button {
+        margin: 45px 0 0 0;
+    }
+}
+
 .header__favorite {
     color: #dc143c;
     text-align: center;
