@@ -1,26 +1,22 @@
-.navigation__Menu {
-    color: #ff0000;
-    font-size: 40px;
-    margin: 50px;
+.navigation {
+    position: fixed;
+    top: 0;
+    width: 997px;
+    margin: 0 auto;
+    padding: 20px 110px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000000;
+    font-size: 20px;
+    z-index: 100;
 }
 
-.navigation__unorderedList {
-    list-style: none;
-}
-
-.navigation__listItem {
-    border: solid black;
-    max-width: 390px;
-    font-size: 25px;
-    margin: 10px;
-    padding: 10px;
-    border-width: 0 0 1px;
-}
-
-.navigation__listItem:hover {
-    background-color: #ff0000;
-}
-
-.navigation__listItem--link {
+.navigationItem {
     text-decoration-line: none;
+    color: #fff;
+}
+
+.navigationItem:hover {
+    color: #008080;
 }
