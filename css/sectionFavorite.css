@@ -4,8 +4,9 @@
 }
 
 .sectionFavorite__title {
-    color: #ff0000;
+    color: #bd1414;
     text-align: center;
+    margin: 30px;
 }
 
 .sectionFavorite__buildings {
