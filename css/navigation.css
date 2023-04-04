@@ -3,20 +3,31 @@
     top: 0;
     width: 997px;
     margin: 0 auto;
-    padding: 20px 110px;
+    padding: 20px 120px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: #000000;
-    font-size: 20px;
+    font-size: 18px;
     z-index: 100;
 }
 
 .navigationItem {
     text-decoration-line: none;
     color: #fff;
+    font-weight: 500;
+    margin-left: 10px;
+    transition: .3s;
 }
 
-.navigationItem:hover {
+.navigationItem:hover,
+.navigationItem:active {
     color: #008080;
+}
+
+.home {
+    font-size: 25px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
 }
