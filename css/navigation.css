@@ -12,7 +12,7 @@
     z-index: 100;
 }
 
-.navigationItem {
+nav a {
     text-decoration-line: none;
     color: #fff;
     font-weight: 500;
@@ -20,8 +20,8 @@
     transition: .3s;
 }
 
-.navigationItem:hover,
-.navigationItem:active {
+nav a:hover,
+nav a.active {
     color: #008080;
 }
 
