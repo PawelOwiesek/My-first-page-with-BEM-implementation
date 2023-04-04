@@ -17,3 +17,7 @@ html {
     font-family: "lato", sans-serif;
     background-color: #f5f5dc;
 }
+
+section:nth-child(odd) {
+    background-color: #ffffffc3;
+}
