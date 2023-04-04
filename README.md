@@ -7,9 +7,7 @@
 - CSS
 - JavaScript
 - BEM convention
-
-![share](https://user-images.githubusercontent.com/121549413/211076244-4a3c4e32-b4f4-4ed9-9541-479a7858e875.png)
+![Screenshot 2023-04-04 172536](https://user-images.githubusercontent.com/121549413/229841489-00ff3010-c8ad-456c-b1f1-45516be64800.png)
 ### Preview:
 
 
-![Animation](https://user-images.githubusercontent.com/121549413/211304281-32c408bc-1a8c-433a-9c80-f847abba3bac.gif)
