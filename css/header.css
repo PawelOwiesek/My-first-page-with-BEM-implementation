@@ -1,7 +1,7 @@
 .header {
     border: 2px solid #1a1e1a;
     background-color: #ffffff;
-
+    padding-top: 20px;
 }
 
 .dark {
@@ -11,9 +11,10 @@
 .header__button {
     font-size: 16px;
     text-align: center;
-    margin: 5px;
+    margin: 55px;
     background-color: #f5f0ea;
     border-radius: 25px;
+    padding: 5px;
 }
 
 .header__favorite {
