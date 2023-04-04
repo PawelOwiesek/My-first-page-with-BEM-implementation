@@ -30,28 +30,29 @@
 <body class="body">
 
     <div class="div">
-        <header id="home" class="header home">
-            <nav class="navigation">
-                <a class="home" href="#home">Home</a>
-                <a class="navigationItem" href="#o-czym-jest-gra">O czym jest gra?</a>
-                <a class="navigationItem" href="#Co-najbardziej-mi-sie-podobalo">Co najbardziej mi sie
-                    podobalo.</a>
-                <a class="navigationItem" href="#tryb-walki"> Tryb walki </a>
-                <a class="navigationItem" href="#wybor-bohatera"> Wybor bohatera</a>
-            </nav>
-            <button class="header__button js-button">Wlacz <span class="themeName"> ciemny</span> motyw </button>
-            <h1 class="header__favorite">Moja ulubiona gra:<span class="header__gameTitle">Life is feudal</span></h1>
+        <section id="home">
+            <header class="header home">
+                <nav class="navigation">
+                    <a class="active home " href="#home">Home</a>
+                    <a class="navigationItem" href="#o-czym-jest-gra">O czym jest gra?</a>
+                    <a class="navigationItem" href="#Co-najbardziej-mi-sie-podobalo">Co najbardziej mi sie
+                        podobalo.</a>
+                    <a class="navigationItem" href="#tryb-walki"> Tryb walki </a>
+                    <a class="navigationItem" href="#wybor-bohatera"> Wybor bohatera</a>
+                </nav>
+                <button class="header__button js-button">Wlacz <span class="themeName"> ciemny</span> motyw </button>
+                <h1 class="header__favorite">Moja ulubiona gra:<span class="header__gameTitle">Life is feudal</span>
+                </h1>
+                <img class="header__mmoJpg" src="https://i.postimg.cc/65LCy8ff/Life-Is-Feudal-MMO.jpg"
+                    alt="okladka gry MMO">
+                <img class="header__yoJpg" src="https://i.postimg.cc/W4FgGN1N/life-is-feudal-your-own-pc.jpg"
+                    alt="okladka gry JO">
+            </header>
+        </section>
 
-            <p><img class="header__mmoJpg" src="https://i.postimg.cc/65LCy8ff/Life-Is-Feudal-MMO.jpg"
-                    alt="okladka gry MMO"><img class="header__yoJpg"
-                    src="https://i.postimg.cc/W4FgGN1N/life-is-feudal-your-own-pc.jpg" alt="okladka gry JO">
-            </p>
-
-
-        </header>
         <main>
-            <section class="sectionAboutGame">
-                <h2 id="o-czym-jest-gra" class="sectionAboutGame__title">O czym jest gra</h2>
+            <section id="o-czym-jest-gra" class="sectionAboutGame">
+                <h2 class="sectionAboutGame__title">O czym jest gra</h2>
                 <p class="sectionAboutGame__gameStory">Wszystko zaczelo sie pozna zima 2014 roku. Mala grupa fanatykow
                     gier komputerowych
                     ktora pozniej przeksztalcila sie w <strong>Bitbox Ltd</strong> stworzyla dzialajace demo koncepcyjne
@@ -75,9 +76,8 @@
                     swoja premiere mialo w <strong>2017</strong> roku.
                 </p>
             </section>
-
-            <section class="sectionFavorite">
-                <h2 id="Co-najbardziej-mi-sie-podobalo" class="sectionFavorite__title">Co najbardziej mi sie podobalo.
+            <section id="Co-najbardziej-mi-sie-podobalo" class="sectionFavorite">
+                <h2 class="sectionFavorite__title">Co najbardziej mi sie podobalo.
                 </h2>
 
                 <p><img class="sectionFavorite__buildings" src="https://i.postimg.cc/jjCfgZ0M/building1.jpg"
@@ -107,12 +107,9 @@
                     <li>👉mozemy szkolic sie w kilkunastu rodzajach sztuk walki zbrojnej;
                     <li>👉sadzic lasy,uprawiac role,zielarstwo,alchemie i wiele wiele innych.
                 </ul>
-
-
-
             </section>
-            <section class="sectionFight">
-                <h2 id="tryb-walki" class="sectionFight__title">Tryb walki</h2>
+            <section id="tryb-walki" class="sectionFight">
+                <h2 class="sectionFight__title">Tryb walki</h2>
                 <p><img class="sectionFight__fightPhoto" src="https://i.postimg.cc/TwDDG1Pm/walka.jpg"
                         alt="walczacy rycerze"><img src="https://i.postimg.cc/6pWnRBHJ/lifeisfeudalbody.jpg"
                         class="sectionFight__fightJpg" alt="zdjecie walczacych"></p>
@@ -141,10 +138,9 @@
                     osobiscie bardziej interesowaly aspekty <i>pve</i> gry
                     ktore opanowalem niemal do perfekcji💪.
                 </p>
-
             </section>
-            <section class="sectionCharacter">
-                <h2 id="wybor-bohatera" class="sectionCharacter__title">Wybor bohatera</h2>
+            <section id="wybor-bohatera" class="sectionCharacter">
+                <h2 class="sectionCharacter__title">Wybor bohatera</h2>
                 <p><img class="sectionCharacter__gotlung" src="https://i.postimg.cc/ZYdYkq5z/gotlung.webp"
                         alt="zdjecie Gotlunga"><img class="sectionCharacter__khorr"
                         src="https://i.postimg.cc/bvkLcbW2/khorr.webp" alt="zdjecie Khorr-a"><img
@@ -228,15 +224,11 @@
                             <td class="tableContainer__tData ">10</td>
                         </tr>
                     </table>
-
-
                 </div>
             </section>
         </main>
     </div>
-
     <footer class="footer">
-
         <p>[1]<a class="navigation__listItem--link" href="https://en.wikipedia.org/wiki/Sean_Bean"
                 rel="noreferrer noopener"><strong>Sean Bean</strong>-
                 link
