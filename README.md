@@ -7,7 +7,9 @@
 - CSS
 - JavaScript
 - BEM convention
-![Screenshot 2023-04-04 172536](https://user-images.githubusercontent.com/121549413/229841489-00ff3010-c8ad-456c-b1f1-45516be64800.png)
+
+![Screenshot 2023-04-04 174911](https://user-images.githubusercontent.com/121549413/229847533-f6119fdc-36b5-4096-b9c1-9d14e2f3358e.png)
+
 ### Preview:
 
-
+![Animation LifeIsFeudalPAge](https://user-images.githubusercontent.com/121549413/229846927-cc615ff1-39a5-4a30-bf66-5bc540c0cc1d.gif)
