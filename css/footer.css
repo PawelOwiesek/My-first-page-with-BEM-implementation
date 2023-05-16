@@ -1,11 +1,11 @@
 .footer {
-    border: 1px solid #000000;
-    font-size: 20px;
-    background-color: #ffffff;
-    margin-top: 10px;
+  border: 1px solid #000000;
+  font-size: 20px;
+  background-color: #ffffff;
+  margin-top: 10px;
 }
 
 .footer__contact {
-    color: #dc143c;
-    margin: 15px;
+  color: #dc143c;
+  margin: 15px;
 }

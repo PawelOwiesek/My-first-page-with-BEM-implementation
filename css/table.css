@@ -1,29 +1,29 @@
 .tableContainer {
-    overflow-x: auto;
-    margin-bottom: 10px;
+  overflow-x: auto;
+  margin-bottom: 10px;
 }
 
 .tableContainer__table {
-    border-collapse: collapse;
-    max-width: 100%;
+  border-collapse: collapse;
+  max-width: 100%;
 }
 
 .tableContainer__tTitle {
-    font-size: 24px;
-    color: #ff0000;
+  font-size: 24px;
+  color: #ff0000;
 }
 
 .tableContainer__tData {
-    border: 3px solid #000000;
-    text-align: center;
-    font-size: 19px;
-    background-color: #f1eee9;
+  border: 3px solid #000000;
+  text-align: center;
+  font-size: 19px;
+  background-color: #f1eee9;
 }
 
 .tableContainer__tData:hover {
-    background-color: #2ebad3;
+  background-color: #2ebad3;
 }
 
 .tableContainer__tHeder {
-    background-color: #00f8ba;
+  background-color: #00f8ba;
 }

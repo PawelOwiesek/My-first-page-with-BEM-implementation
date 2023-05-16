@@ -1,39 +1,39 @@
 .sectionFight {
-    border: 2px solid #000000;
-    background-color: #ffffff;
+  border: 2px solid #000000;
+  background-color: #ffffff;
 }
 
 .sectionFight {
-    border: 2ps solid #000000;
+  border: 2ps solid #000000;
 }
 
 .sectionFight__title {
-    color: #b51414;
-    text-align: center;
-    margin: 30px;
+  color: #b51414;
+  text-align: center;
+  margin: 30px;
 }
 
 .sectionFight__fightPhoto {
-    max-width: 45%;
-    padding-left: 10px;
+  max-width: 45%;
+  padding-left: 10px;
 }
 
 .sectionFight__fightJpg {
-    max-width: 45%;
+  max-width: 45%;
 }
 
 .sectionFight__text {
-    font-size: 19px;
-    line-height: 1.5;
-    margin: 10px;
+  font-size: 19px;
+  line-height: 1.5;
+  margin: 10px;
 }
 
 .sectionCharacter__logo {
-    max-width: 50px;
+  max-width: 50px;
 }
 
-@media(max-width:767px) {
-    .sectionCharacter__logo {
-        max-width: 25px;
-    }
+@media (max-width: 767px) {
+  .sectionCharacter__logo {
+    max-width: 25px;
+  }
 }

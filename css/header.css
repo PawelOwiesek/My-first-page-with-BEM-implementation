@@ -1,43 +1,43 @@
 .header {
-    border: 2px solid #1a1e1a;
-    background-color: #ffffff;
-    padding-top: 20px;
+  border: 2px solid #1a1e1a;
+  background-color: #ffffff;
+  padding-top: 20px;
 }
 
 .dark {
-    background-color: darkgreen;
+  background-color: darkgreen;
 }
 
 .header__button {
-    font-size: 16px;
-    text-align: center;
-    margin: 55px;
-    background-color: #f5f0ea;
-    border-radius: 25px;
-    padding: 5px;
+  font-size: 16px;
+  text-align: center;
+  margin: 55px;
+  background-color: #f5f0ea;
+  border-radius: 25px;
+  padding: 5px;
 }
 
-@media(max-width:767px) {
-    .header__button {
-        margin: 45px 0 0 0;
-    }
+@media (max-width: 767px) {
+  .header__button {
+    margin: 45px 0 0 0;
+  }
 }
 
 .header__favorite {
-    color: #dc143cc8;
-    text-align: center;
+  color: #dc143cc8;
+  text-align: center;
 }
 
 .header__gameTitle {
-    color: #1a1e1a;
+  color: #1a1e1a;
 }
 
 .header__mmoJpg {
-    max-width: 40%;
-    padding: 20px;
+  max-width: 40%;
+  padding: 20px;
 }
 
 .header__yoJpg {
-    max-width: 40%;
-    padding: 20px;
+  max-width: 40%;
+  padding: 20px;
 }

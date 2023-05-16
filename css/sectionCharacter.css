@@ -1,28 +1,28 @@
 .sectionCharacter {
-    border: 2px solid #000000;
-    background-color: #ffffff;
-    padding: 0 10px;
+  border: 2px solid #000000;
+  background-color: #ffffff;
+  padding: 0 10px;
 }
 
 .sectionCharacter__title {
-    color: #d41717;
-    text-align: center;
-    margin: 30px;
+  color: #d41717;
+  text-align: center;
+  margin: 30px;
 }
 
 .sectionCharacter__gotlung {
-    max-width: 30%;
+  max-width: 30%;
 }
 
 .sectionCharacter__khorr {
-    max-width: 30%;
+  max-width: 30%;
 }
 
 .sectionCharacter__slavard {
-    max-width: 30%;
+  max-width: 30%;
 }
 
 .sectionCharacter__text {
-    font-size: 19px;
-    line-height: 1.5;
+  font-size: 19px;
+  line-height: 1.5;
 }

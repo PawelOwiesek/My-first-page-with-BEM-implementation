@@ -1,23 +1,23 @@
 html {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 *,
 ::after,
 ::before {
-    box-sizing: inherit;
-    margin: 0;
-    padding: 0;
-    scroll-behavior: smooth;
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
 }
 
 .body {
-    max-width: 1000px;
-    margin: 0 auto;
-    font-family: "lato", sans-serif;
-    background-color: #f5f5dc;
+  max-width: 1000px;
+  margin: 0 auto;
+  font-family: "lato", sans-serif;
+  background-color: #f5f5dc;
 }
 
 section:nth-child(odd) {
-    background-color: #ffffffc3;
+  background-color: #ffffffc3;
 }

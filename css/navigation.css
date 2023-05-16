@@ -1,57 +1,57 @@
 .navigation {
-    position: fixed;
-    top: 0;
-    width: 997px;
-    margin: 0 auto;
-    padding: 20px 120px;
+  position: fixed;
+  top: 0;
+  width: 997px;
+  margin: 0 auto;
+  padding: 20px 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #000000;
+  font-size: 18px;
+  z-index: 100;
+}
+
+@media (max-width: 767px) {
+  .navigation {
     display: flex;
-    justify-content: space-between;
+    flex-direction: row;
+    align-items: flex-start;
+    max-width: fit-content;
+    font-size: 15px;
+    margin: 0;
+    padding: 5px;
+  }
+}
+
+@media (max-width: 900px) {
+  .navigation {
+    display: flex;
+    justify-content: center;
     align-items: center;
-    background-color: #000000;
-    font-size: 18px;
-    z-index: 100;
-}
-
-@media(max-width:767px) {
-    .navigation {
-        display: flex;
-        flex-direction: row;
-        align-items: flex-start;
-        max-width: fit-content;
-        font-size: 15px;
-        margin: 0;
-        padding: 5px;
-    }
-}
-
-@media(max-width:900px) {
-    .navigation {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        max-width: fit-content;
-        font-size: 15px;
-        margin: 0;
-        padding: 5px;
-    }
+    max-width: fit-content;
+    font-size: 15px;
+    margin: 0;
+    padding: 5px;
+  }
 }
 
 nav a {
-    text-decoration-line: none;
-    color: #fff;
-    font-weight: 500;
-    margin-left: 10px;
-    transition: .3s;
+  text-decoration-line: none;
+  color: #fff;
+  font-weight: 500;
+  margin-left: 10px;
+  transition: 0.3s;
 }
 
 nav a:hover,
 nav a.active {
-    color: #008080;
+  color: #008080;
 }
 
 .home {
-    font-size: 25px;
-    color: #fff;
-    text-decoration: none;
-    font-weight: 600;
+  font-size: 25px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
 }
